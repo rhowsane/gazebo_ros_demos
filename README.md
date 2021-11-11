@@ -1,3 +1,9 @@
+# Forked version
+Addition of the docs below at the rrbot_description:
+- rrbot_camera.gazebo 
+- rrbot_camera.xacro               
+The rrbot was removed, only keeping its camera in order to publish its topics from Gazebo through ROS.
+
 # Gazebo ROS Demos
 
 * Author: Dave Coleman <davetcoleman@gmail.com>
